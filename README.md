@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Ashita!
 
-<!--
-**Ashita2619/Ashita2619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Bioinformatician** at the **Kansas Health and Environment Laboratories**, where I analyze **Whole Genome Sequencing** data to support public health and research initiatives.
 
-Here are some ideas to get you started:
+### 🔬 What I’m Working On
+- 🧬 WGS analysis for pathogen surveillance and outbreak tracking.
+- 🤖 Learning **Artificial Intelligence** and integrating it with bioinformatics workflows.
+- 🛠️ Exploring new tools like Nextflow, Snakemake, Docker and machine learning libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I’m Passionate About
+- Bioinformatics, genomics, and data-driven public health
+- Machine learning applications in biology
+- Building reproducible and scalable pipelines
+
+### 📫 How to Reach Me
+- Email: *ajawali@alumni.cmu.edu*
+- Pronouns: **She/Her**
+
+### ⚡ Fun Fact
+I believe every dataset has a story—sometimes you just need the right algorithm to hear it.
+
+---
+
+### 🧰 Tech Stack
+```yaml
+Languages: Python, R, Bash, Linux
+Tools: Nextflow, FastQC, BWA, GATK, ML libraries (scikit-learn, TensorFlow), Docker
+Platforms: Linux, GitHub Actions, HPC clusters, NCBI
