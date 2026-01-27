@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ashita!
 
-I'm a **Bioinformatician** at the **Kansas Health and Environment Laboratories**, where I analyze **Whole Genome Sequencing** data to support public health and research initiatives.
+I'm a **Bioinformatician** at the **Kansas Health and Environment Laboratories**, where I analyze **Whole Genome Sequencing** data to support public health and research initiatives in outbreak genomic surveillance analysis.
 
 ### 🔬 What I’m Working On
 - 🧬 WGS analysis for pathogen surveillance and outbreak tracking.
