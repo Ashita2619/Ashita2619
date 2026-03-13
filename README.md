@@ -1,29 +1,35 @@
 ## 👋 Hi, I'm Ashita!
 
-I'm a **Bioinformatician** at the **Kansas Health and Environment Laboratories**, where I analyze **Whole Genome Sequencing** data to support public health and research initiatives in outbreak genomic surveillance analysis.
+I'm a **Bioinformatician** at the **Kansas Health and Environment Laboratories**, where I analyze **Whole Genome Sequencing** data to support public health initiatives, including pathogen surveillance and outbreak investigation.
 
 ### 🔬 What I’m Working On
-- 🧬 WGS analysis for pathogen surveillance and outbreak tracking.
-- 🤖 Learning **Artificial Intelligence** and integrating it with bioinformatics workflows.
-- 🛠️ Exploring new tools like Nextflow, Snakemake, Docker and machine learning libraries
+- 🧬 Whole-genome sequencing (WGS) analysis for pathogen surveillance and outbreak tracking
+- 🤖 Expanding my knowledge of **Artificial Intelligence and Machine Learning** for biological data analysis
+- 🛠️ Developing reproducible and scalable bioinformatics workflows using tools like **Nextflow, Snakemake, Docker**
 
 ### 💡 What I’m Passionate About
-- Bioinformatics, genomics, and data-driven public health
-- Machine learning applications in biology
-- Building reproducible and scalable pipelines
+- Bioinformatics, genomics, and **data-driven public health**
+- Applying **machine learning to biological and genomic datasets**
+- Building **reproducible, automated pipelines** for large-scale sequencing analysis
 
 ### 📫 How to Reach Me
 - Email: *ajawali@alumni.cmu.edu*
 - Pronouns: **She/Her**
 
 ### ⚡ Fun Fact
-I believe every dataset has a story—sometimes you just need the right algorithm to hear it.
+I believe every dataset has a story—sometimes you just need the right algorithm to uncover it.
 
 ### 🚀 Featured Projects
 
-- 🧬 Candida auris Genomics Pipeline – Automated pipeline for pathogen WGS analysis.
-- 🤖 Lung Cancer Biomarker Prediction – RNA-seq analysis and Random Forest ML model.
-- 🦠 PulseNet2.0 - High‑throughput cluster detection and epidemiological tracking pipeline.
+### 🧬 Candida auris Genomics Pipeline 
+- Automated bioinformatics workflow for analyzing WGS data for pathogen surveillance.
+
+### 🤖 Lung Cancer Biomarker Prediction 
+- RNA-seq analysis pipeline and Random Forest ML model for biomarker discovery in NSCLC.
+
+### 🦠 PulseNet2.0 
+- High‑throughput cluster detection and epidemiological tracking pipeline.
+
 
 ### ⭐ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashita2619&show_icons=true&theme=default)
