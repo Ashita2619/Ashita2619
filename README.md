@@ -2,22 +2,32 @@
 
 I'm a **Bioinformatician** at the **Kansas Health and Environment Laboratories**, where I analyze **Whole Genome Sequencing** data to support public health initiatives, including pathogen surveillance and outbreak investigation.
 
+<br />
+
 ### 🔬 What I’m Working On
 - 🧬 Whole-genome sequencing (WGS) analysis for pathogen surveillance and outbreak tracking
 - 🤖 Expanding my knowledge of **Artificial Intelligence and Machine Learning** for biological data analysis
 - 🛠️ Developing reproducible and scalable bioinformatics workflows using tools like **Nextflow, Snakemake, Docker**
+
+<br />
 
 ### 💡 What I’m Passionate About
 - Bioinformatics, genomics, and **data-driven public health**
 - Applying **machine learning to biological and genomic datasets**
 - Building **reproducible, automated pipelines** for large-scale sequencing analysis
 
+<br />
+
 ### 📫 How to Reach Me
 - Email: *ajawali@alumni.cmu.edu*
 - Pronouns: **She/Her**
 
+<br />
+
 ### ⚡ Fun Fact
 I believe every dataset has a story—sometimes you just need the right algorithm to uncover it.
+
+<br />
 
 ### 🚀 Featured Projects
 
@@ -45,6 +55,7 @@ I believe every dataset has a story—sometimes you just need the right algorith
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ashita2619)
 
+<br />
 
 ---
 
