@@ -28,9 +28,9 @@ I believe every dataset has a story—sometimes you just need the right algorith
 
 | Project | Description |
 |--------|-------------|
-| 🧬 **Candida auris Genomics Pipeline** | Automated bioinformatics workflow for analyzing WGS data for pathogen surveillance |
-| 🤖 **Lung Cancer Biomarker Prediction** | RNA-seq pipeline and Random Forest model for NSCLC biomarker discovery |
-| 🦠 **PulseNet2.0** | High-throughput cluster detection and epidemiological tracking pipeline |
+| 🧬 **[Candida auris Genomics Pipeline](https://github.com/Ashita2619/CAURIS_Analysis)** | Automated bioinformatics workflow for analyzing WGS data for pathogen surveillance |
+| 🤖 **[Lung Cancer Biomarker Prediction](https://github.com/Ashita2619/Novel-Biomarker-Prediction-for-Lung-Cancer)** | RNA-seq pipeline and Random Forest model for NSCLC biomarker discovery |
+| 🦠 **[PulseNet2.0](https://github.com/Ashita2619/PulseNet2.0)** | High-throughput cluster detection and epidemiological tracking pipeline |
 
 
 
