@@ -25,7 +25,7 @@ I believe every dataset has a story—sometimes you just need the right algorith
 
 ---
 ### 🚀 Featured Projects
-```yaml
+
 ### 🧬 Candida auris Genomics Pipeline 
 - Automated bioinformatics workflow for analyzing WGS data for pathogen surveillance.
 
@@ -34,6 +34,7 @@ I believe every dataset has a story—sometimes you just need the right algorith
 
 ### 🦠 PulseNet2.0 
 - High‑throughput cluster detection and epidemiological tracking pipeline.
+```yaml
 
 <br />
 
