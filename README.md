@@ -26,14 +26,12 @@ I believe every dataset has a story—sometimes you just need the right algorith
 
 ### 🚀 Featured Projects
 
-### 🧬 Candida auris Genomics Pipeline 
-- Automated bioinformatics workflow for analyzing WGS data for pathogen surveillance.
+| Project | Description |
+|--------|-------------|
+| 🧬 **Candida auris Genomics Pipeline** | Automated bioinformatics workflow for analyzing WGS data for pathogen surveillance |
+| 🤖 **Lung Cancer Biomarker Prediction** | RNA-seq pipeline and Random Forest model for NSCLC biomarker discovery |
+| 🦠 **PulseNet2.0** | High-throughput cluster detection and epidemiological tracking pipeline |
 
-### 🤖 Lung Cancer Biomarker Prediction 
-- RNA-seq analysis pipeline and Random Forest ML model for biomarker discovery in NSCLC.
-
-### 🦠 PulseNet2.0 
-- High‑throughput cluster detection and epidemiological tracking pipeline.
 
 
 <br />
