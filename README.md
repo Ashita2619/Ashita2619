@@ -23,7 +23,7 @@ I'm a **Bioinformatician** at the **Kansas Health and Environment Laboratories**
 ### ⚡ Fun Fact
 I believe every dataset has a story—sometimes you just need the right algorithm to uncover it.
 
----
+
 ### 🚀 Featured Projects
 
 ### 🧬 Candida auris Genomics Pipeline 
@@ -34,7 +34,7 @@ I believe every dataset has a story—sometimes you just need the right algorith
 
 ### 🦠 PulseNet2.0 
 - High‑throughput cluster detection and epidemiological tracking pipeline.
-```yaml
+
 
 <br />
 
