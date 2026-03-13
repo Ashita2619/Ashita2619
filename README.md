@@ -25,6 +25,16 @@ I believe every dataset has a story—sometimes you just need the right algorith
 - 🤖 Lung Cancer Biomarker Prediction – RNA-seq analysis and Random Forest ML model.
 - 🦠 PulseNet2.0 - High‑throughput cluster detection and epidemiological tracking pipeline.
 
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashita2619&show_icons=true&theme=default)
+
+### Language Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita2619&layout=compact)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ashita2619)
+
+
 ---
 
 ### 🧰 Tech Stack
