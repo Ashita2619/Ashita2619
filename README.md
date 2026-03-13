@@ -23,9 +23,9 @@ I'm a **Bioinformatician** at the **Kansas Health and Environment Laboratories**
 ### ⚡ Fun Fact
 I believe every dataset has a story—sometimes you just need the right algorithm to uncover it.
 
-
+```
 ### 🚀 Featured Projects
-
+```yaml
 ### 🧬 Candida auris Genomics Pipeline 
 - Automated bioinformatics workflow for analyzing WGS data for pathogen surveillance.
 
