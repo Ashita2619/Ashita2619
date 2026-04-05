@@ -37,12 +37,12 @@ I believe every dataset has a story—sometimes you just need the right algorith
 <br />
 
 ### ⭐ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashita2619&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashita2619&show_icons=true&theme=default&cache_seconds=86400)
 
 <br />
 
 ### ⭐ Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita2619&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita2619&layout=compact&cache_seconds=86400)
 
 <br />
 
